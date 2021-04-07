@@ -1,0 +1,15 @@
+D:\C#\homework_borntodev\homework_borntodev\bin\Debug\GUI_borntodev2.exe.config
+D:\C#\homework_borntodev\homework_borntodev\bin\Debug\GUI_borntodev2.exe
+D:\C#\homework_borntodev\homework_borntodev\bin\Debug\GUI_borntodev2.pdb
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\homework_borntodev.csprojAssemblyReference.cache
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\MainWindow.g.cs
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\App.g.cs
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2_MarkupCompile.cache
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2_MarkupCompile.lref
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\MainWindow.baml
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2.g.resources
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2.Properties.Resources.resources
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\homework_borntodev.csproj.GenerateResource.cache
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\homework_borntodev.csproj.CoreCompileInputs.cache
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2.exe
+D:\C#\homework_borntodev\homework_borntodev\obj\Debug\GUI_borntodev2.pdb
